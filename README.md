@@ -31,3 +31,7 @@ I am a software engineer who works with automation tools for deployment and conf
 
 1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 2. [Learn X in Y Minutes](https://learnxinyminutes.com/)
+
+### JavaScript
+
+1. [JavaScript.com](https://www.javascript.com/)
