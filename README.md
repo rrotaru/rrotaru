@@ -4,7 +4,7 @@ This is my GitHub README. I will try to keep helpful and interesting things here
 
 ## About me
 
-I enjoy the extremes of being either hyper-connected to everything tech/digital or completely disconnected and out in the woods. I'm an avid backpacker, a keyboard enthusiast who dabbles in DIY projects, and a novice guitarist. I enjoy everything of the [synthwave](https://medium.com/@cywjoel/outrun-the-aesthetic-deconstructed-dbd3cd8679b7)/[cyberpunk](https://www.polygon.com/features/2018/8/30/17796680/cyberpunk-2077-history-blade-runner-neuromancer) variety. I completed undergrad with a Bachelor of Science degree in Mathematics and a Bachelor of Science degree in Computer Science from [CCSU](https://www.ccsu.edu/).
+I enjoy the extremes of being either hyper-connected to everything tech/digital or completely disconnected and out in the woods. I'm an avid backpacker, a keyboard enthusiast who dabbles in DIY projects, and a novice guitarist. I enjoy everything of the [synth](https://electrozombies.com/magazine/article/what-is-synthwave/)[wave](https://medium.com/@cywjoel/outrun-the-aesthetic-deconstructed-dbd3cd8679b7)/[cyberpunk](https://www.polygon.com/features/2018/8/30/17796680/cyberpunk-2077-history-blade-runner-neuromancer) variety. I completed undergrad with a Bachelor of Science degree in Mathematics and a Bachelor of Science degree in Computer Science from [CCSU](https://www.ccsu.edu/).
 
 I am a software engineer who works with automation tools for deployment and configuration of enterprise-scale systems.
 
